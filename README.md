@@ -1,2 +1,1 @@
-# PreCourse-henry
-Este es un repositorio de prueba del modulo 2 del Precourse de Henry
+Este repositorio es solo una prueba de clonarun repositorio de githup a nuestra computadora
